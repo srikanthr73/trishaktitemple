@@ -584,7 +584,6 @@ section {
 .post-entry-2 {
   margin-bottom: 30px;
 }
-
 .post-entry-2 .post-meta {
   font-size: 11px;
   letter-spacing: 0.07rem;
@@ -1328,6 +1327,9 @@ section {
 }
 .bg-blue-dark{
   background: rgb(65,30,100);
+}
+.text-justify{
+  text-align: justify;
 }
 .example-image{width:400px;}
 .om-bg{background-image: url(https://www.htkdc.com/trishakti-temple/assets/img/om-bg.webp); background-repeat: no-repeat; position: relative; background-size: cover; background-position: center center; padding:2em 0;} 
